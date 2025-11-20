@@ -1,0 +1,52 @@
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# Minecraft noise
+.mixin.out/
+crash-reports/
+datapacks/
+downloads/
+dumps/
+local/
+logs/
+modernfix/
+mods/
+patchouli_books/
+profileImage/
+resourcepacks/
+saves/
+shaderpacks/
+tacz/
+tacz_backup/
+
+kubejs/server_scripts/debug/
+kubejs/startup_scripts/debug/
+kubejs/client_scripts/debug/
+kubejs/config/probejs.json
+kubejs/documentation/
+kubejs/probe/
+
+.curseclient
+emi.json
+minecraftinstance.json
+options.txt
+patchouli_data.json
+rhino.local.properties
+user-prefs.json
+usercache.json
+usernamecache.json
+
+# Sist. operacional
+.DS_Store
+Thumbs.db
+
+# CurseForge export artifacts
+# *.zip
+releases/
+
+# Custom
+modlist.xlsx
+documentation.txt
