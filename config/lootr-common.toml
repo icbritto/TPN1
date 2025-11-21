@@ -47,7 +47,7 @@ decay_value = 6000
 #list of loot tables which will refresh (default blank, meaning no chests refresh, in the format of ["modid:loot_table", "othermodid:loot_table"])
 refresh_loot_tables = []
 #whether or not the Elytra item frame should be converted into a standard loot chest with a guaranteed elytra
-convert_elytras = true
+convert_elytras = false
 #list of dimensions by modid that loot chest should be replaced in (default: blank, allowing all modids, format e.g., ["minecraft
 #othermod"])
 modid_dimension_whitelist = []
@@ -62,7 +62,7 @@ blast_resistant = false
 #list of dimensions that loot chests should not be replaced in (default: blank, allowing all dimensions, format e.g., ["minecraft:overworld", "minecraft:the_end"])
 dimension_blacklist = []
 #allow the destruction of Lootr chests regardless. overrides `disable_break`
-enable_break = false
+enable_break = true
 #the maximum age for containers; entries above this age will be discarded [default: 60 * 20 * 15, fifteen minutes] [note: the value 6000 will be corrected to 18000. if you wish to use 6000, please use 6001 or 5999.]
 #Range: > 0
 max_age = 18000

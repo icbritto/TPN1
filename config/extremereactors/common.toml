@@ -20,7 +20,7 @@
 		#Lower this if your server's players are building ginormous Reactors.
 		#Bigger Y sizes have far less performance impact than X/Z sizes.
 		#Range: 3 ~ 256
-		maxReactorHeight = 48
+		maxReactorHeight = 64
 		#The maximum valid size of a Reactor in the X/Z plane, in blocks.
 		#Lower this if your server's players are building ginormous Reactors.
 		#Range: 3 ~ 256

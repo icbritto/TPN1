@@ -2,15 +2,15 @@
 [gun]
 	#The default fire sound range (block)
 	#Range: > 0
-	DefaultGunFireSoundDistance = 64
+	DefaultGunFireSoundDistance = 256
 	#The silencer default fire sound range (block)
 	#Range: > 0
-	DefaultGunSilenceSoundDistance = 16
+	DefaultGunSilenceSoundDistance = 128
 	#The range (block) of other gun sound, reloading sound etc.
 	#Range: > 0
 	DefaultGunOtherSoundDistance = 16
 	#Whether or not the player will consume ammo in creative mode
-	CreativePlayerConsumeAmmo = true
+	CreativePlayerConsumeAmmo = false
 	#Auto reload all the guns in player inventory, useful for pvp servers
 	AutoReloadWhenRespawn = false
 
@@ -18,7 +18,7 @@
 	#Warning: Ammo with explosive properties can break blocks
 	ExplosiveAmmoDestroysBlock = true
 	#Warning: Ammo with explosive properties can set the surroundings on fire
-	ExplosiveAmmoFire = false
+	ExplosiveAmmoFire = true
 	#Ammo with explosive properties can add knockback effect
 	ExplosiveAmmoKnockBack = true
 	#The distance at which the explosion effect can be seen
