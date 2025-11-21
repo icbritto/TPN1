@@ -6,6 +6,7 @@
 
 # Minecraft noise
 .mixin.out/
+config/oculus.properties
 crash-reports/
 datapacks/
 downloads/
@@ -14,7 +15,6 @@ local/
 logs/
 modernfix/
 mods/
-mods/oculus.properties
 patchouli_books/
 profileImage/
 resourcepacks/
