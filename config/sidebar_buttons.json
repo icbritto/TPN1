@@ -15,7 +15,7 @@
 		"trash_can": false
 	},
 	"ftbchunks": {
-		"chunks": true,
+		"chunks": false,
 		"claim_chunks": true
 	}
 }
