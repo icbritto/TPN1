@@ -218,7 +218,7 @@
 	#If they are unable to pay this fee, they will not be able to submit any auctions
 	#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 	#Default: "null;empty"
-	auctionSubmitFee="coin;6-lightmanscurrency:coin_netherite"
+	auctionSubmitFee="null;empty"
 	#Whether the auction fees collected should be stored in the server-wide tax collector as taxes
 	#Includes both the submission fee and the fee taken from the final bid
 	#Useful for those who wish to keep track of auction fees collected, and/or don't want money to destroyed in this process

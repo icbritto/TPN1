@@ -13,9 +13,5 @@
 	},
 	"ftbessentials": {
 		"trash_can": false
-	},
-	"ftbchunks": {
-		"chunks": false,
-		"claim_chunks": true
 	}
 }
