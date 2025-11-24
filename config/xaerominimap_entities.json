@@ -18,8 +18,13 @@
     "displayNameWhenIconFails": true,
     "entityNumber": 1000.0,
     "alwaysDisplayNametags": false,
+<<<<<<< HEAD
     "startFadingAt": 0.0,
     "dotSize": 2.0,
+=======
+    "dotSize": 2.0,
+    "startFadingAt": 0.0,
+>>>>>>> 0f4a5716bff77a67d9b9a474c9009626aafe4427
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
     "names": 0.0,
