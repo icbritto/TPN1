@@ -7,6 +7,9 @@
 # Minecraft noise
 .mixin.out/
 config/oculus.properties
+config/xaerominimap.txt
+config/xaerominimap_entities.json.backup0
+config/xaerominimap_entities.json
 crash-reports/
 datapacks/
 downloads/
@@ -24,10 +27,7 @@ shaderpacks/
 tacz/
 tacz_backup/
 xaero/
-<<<<<<< HEAD
 XaeroWaypoints_BACKUP240807/
-=======
->>>>>>> 0f4a5716bff77a67d9b9a474c9009626aafe4427
 
 kubejs/server_scripts/debug/
 kubejs/startup_scripts/debug/
