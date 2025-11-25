@@ -10,9 +10,9 @@ Here, each player is part of a living ecosystem, where industry, trade, and coll
 
 ## 📦 How to install
 
-## You can ether use Curse Forge or Modrinth
+## You can ether use CurseForge or Modrinth
 
-### Curse Forge
+### CurseForge
 1. Download the modpack:
    - Via CurseForge App **(recommended)**
    - Via Release (ZIP) here on GitHub
