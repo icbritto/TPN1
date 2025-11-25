@@ -1,4 +1,4 @@
-# TPN1 Modpack (Minecraft 1.21.1)
+# TPN1 Modpack (Minecraft 1.21.1 - Neoforge)
 
 This is the official repository of the **TPN1** modpack, created to offer a balanced experience between technology, exploration, and progression.
 
@@ -9,22 +9,6 @@ Here, each player is part of a living ecosystem, where industry, trade, and coll
 ---
 
 ## 📦 How to install
-
-## You can ether use CurseForge or Modrinth
-
-### CurseForge
-1. Download the modpack:
-   - Via CurseForge App **(recommended)**
-   - Via Release (ZIP) here on GitHub
-
-2. On CurseForge:
-   - Click "Create Custom Profile"
-   - Select "Import"
-   - Choose the `.zip` file from this repository
-
-3. CurseForge will automatically download all the mods.
-
-### Modrinth
 1. Download the modpack:
    - Via Modrinth App **(recommended)**
    - Via Release (.mrpack) here on GitHub
