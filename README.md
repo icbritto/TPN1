@@ -10,12 +10,12 @@ Here, each player is part of a living ecosystem, where industry, trade, and coll
 
 ## 📦 How to install
 1. Download the modpack:
-   - Via Modrinth App **(recommended)**
-   - Via Release (.mrpack) here on GitHub
+   - Via CurseForge App **(recommended)**
+   - Via Release (ZIP) here on GitHub
 
 2. On Modrinth:
    - Click "Create Custom Profile"
-   - Select "Import" and then select "from file"
-   - Choose the `.mrpack` file from this repository
+   - Select "Import"
+   - Choose the `.zip` file from this repository
 
-3. Modrinth will automatically download all the mods.
+3. CurseForge will automatically download all the mods.
