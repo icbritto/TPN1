@@ -1,0 +1,59 @@
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# Minecraft noise
+.mixin.out/
+config/xaerominimap_entities.json 
+config/xaerominimap-common.txt 
+config/xaerominimap.txt 
+config/xaeropatreon.txt 
+config/xaeroworldmap-common.txt 
+config/xaeroworldmap.txt
+crash-reports/
+debug/
+Distant_Horizons_server_data/
+downloads/
+dynamic-resource-pack-cache/
+local/
+logs/
+moddata/
+mods/
+moonlight-global-datapacks/
+patchouli_books/
+resourcepacks/
+saves/
+shaderpacks/
+xaero/
+XaeroWaypoints_BACKUP240807/
+
+kubejs/server_scripts/debug/
+kubejs/startup_scripts/debug/
+kubejs/client_scripts/debug/
+
+.curseclient
+command_history.txt
+emi.json
+minecraftinstance.json
+options.txt
+patchouli_data.json
+servers.dat
+servers.dat_old
+user-prefs.json
+usercache.json
+usernamecache.json
+
+# Sist. operacional
+.DS_Store
+Thumbs.db
+
+# CurseForge export artifacts
+# *.zip
+releases/
+profileImage/
+
+# Custom
+modlist.xlsx
+documentation.txt
